@@ -1,0 +1,12 @@
+{
+  "block.vsanchors.anchor_block": "Anchor Block",
+  "block.vsanchors.dock_block": "Dock Block",
+  "itemGroup.vsanchors.vs_anchors_tab": "VS Anchors",
+  "message.vsanchors.anchor_locked": "Anchored!",
+  "message.vsanchors.anchor_raised": "Anchor raised!",
+  "message.vsanchors.not_on_ship": "This block is not on a ship!",
+  "message.vsanchors.ship_docked": "Ship docked!",
+  "message.vsanchors.ship_undocked": "Ship undocked!",
+  "message.vsanchors.no_ship_in_range": "No ship in range!",
+  "message.vsanchors.ship_pulling": "Pulling ship in..."
+}

@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\bnmin\.gradle\caches\modules-2\files-2.1\org.valkyrienskies\valkyrienskies-120-forge\2.4.0\2d5abca3d552c3d88f5400fce6b83581d4e70b9c\valkyrienskies-120-forge-2.4.0.jar, --output, C:\Users\bnmin\.gradle\caches\forge_gradle\deobf_dependencies\org\valkyrienskies\valkyrienskies-120-forge\2.4.0_mapped_official_1.20.1\valkyrienskies-120-forge-2.4.0_mapped_official_1.20.1.jar, --mcp, C:\Users\bnmin\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\bnmin\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\bnmin\Documents\vs-anchors\build\_RenameSrg2Mcp_17063554
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\bnmin\.gradle\caches\modules-2\files-2.1\org.valkyrienskies\valkyrienskies-120-forge\2.4.0\2d5abca3d552c3d88f5400fce6b83581d4e70b9c\valkyrienskies-120-forge-2.4.0.jar
+Output: C:\Users\bnmin\.gradle\caches\forge_gradle\deobf_dependencies\org\valkyrienskies\valkyrienskies-120-forge\2.4.0_mapped_official_1.20.1\valkyrienskies-120-forge-2.4.0_mapped_official_1.20.1.jar
+MCP:    C:\Users\bnmin\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

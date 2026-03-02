@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: vsanchors
+Specification-Vendor: Especialista104
+Specification-Version: 1
+Implementation-Title: vsanchors
+Implementation-Version: 1.0.0
+Implementation-Vendor: Especialista104
+Implementation-Timestamp: 2026-03-02T15:24:20+0000
+

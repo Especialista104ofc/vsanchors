@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "vsanchors:block/dock_block" }
+  }
+}
