@@ -1,0 +1,32 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Forge run directory
+run/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.class
+
+# Crash reports
+crash-reports/
+
+# Local config
+*.ipr
+*.iws
+
+# Mac
+*.swp
